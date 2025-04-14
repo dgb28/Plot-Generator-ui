@@ -1,0 +1,11 @@
+.spinner-border {
+  border-top-color: transparent; /* Make the top border invisible for spinning effect */
+}
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
