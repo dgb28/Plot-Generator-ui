@@ -186,3 +186,24 @@ dev.off()
 |                | dgbhanderi20@gmail.com |
 
 ---
+## 🔮 Future Scope
+
+- 🤖 **LLM Integration for Smart Assistance**  
+  Integrate large language models (LLMs) like OpenAI's GPT to help users debug errors, explain their code, and suggest improvements in real time.
+
+- 🧠 **Auto-Completion & Code Suggestions**  
+  Enhance the editor with intelligent code auto-completion and contextual suggestions using AI-powered models trained on Python/R datasets.
+
+- 📈 **Advanced Output Analytics**  
+  Add support for metadata extraction and visual analytics (e.g., variable tracking, performance metrics, and plot interpretations).
+
+- 🌍 **Multi-User Collaboration**  
+  Enable real-time collaboration on code — similar to Google Docs — for pair programming, team projects, or classroom use.
+
+- 🛡️ **Enhanced Security Sandbox**  
+  Introduce resource usage limits (CPU, RAM, runtime) and user authentication to prevent misuse and scale safely for open access.
+
+- ☁️ **Cloud Deployment & User Profiles**  
+  Host the platform in the cloud with persistent user profiles, saved code sessions, version history, and personalized settings.
+
+---
