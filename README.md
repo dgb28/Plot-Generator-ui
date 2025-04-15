@@ -4,12 +4,6 @@
 ## 🌟 Overview  
 This is the frontend interface for **Plot generator**, a platform that lets users write Python or R code to generate beautiful visualizations — all executed in secure Docker containers on the backend. Users can write code, run it, and view visual or HTML outputs right in the browser.
 
-## 🖥️ Live Preview  
-- Write Python or R code 🐍📊  
-- Select language  
-- Click “Generate Plot”  
-- Instantly see images or interactive HTML charts
-
 ## 🧠 Key Features  
 - 📝 Interactive code editor with syntax highlighting (Ace Editor)  
 - 🐳 Secure backend code execution using custom Docker containers  
