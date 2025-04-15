@@ -31,7 +31,7 @@ This is the frontend interface for **Plot generator**, a platform that lets user
 - Docker SDK for Python  
 - Local media storage for `.html` plots  
 - Custom Docker images for executing Python and R scripts
-- 👉 [CodePlotter Backend (Django)](https://github.com/dgb28/Plot-Generator)
+- 👉 [Code Generator Backend (Django)](https://github.com/dgb28/Plot-Generator)
 
 ---
 
